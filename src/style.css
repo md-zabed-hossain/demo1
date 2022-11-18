@@ -1,0 +1,14 @@
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+ background-color: #282c34;
+ color: white;
+}
+div{
+  width: 700px;
+ height: 700px;  
+}
+        
